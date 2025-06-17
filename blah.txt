@@ -1,0 +1,81 @@
+## React Essentials - Components, JSX, Props, State & More
+
+- Module Introduction
+
+- It's All About Components! [Core Concept]
+    
+- Setting Up The Starting Project
+    
+- JSX & React Components [Core Concept]
+    
+- Creating & Using a First Custom Component
+    
+- A Closer Look: Components & File Extensions
+    
+- Building & Using a Component
+    
+- How React Handles Components & How It Builds A "Component Tree" [Core Concept]
+    
+- Components & JSX
+    
+- Using & Outputting Dynamic Values [Core Concept]
+    
+- Setting HTML Attributes Dynamically & Loading Image Files
+    
+- queOutputting Dynamic Content
+    
+- Making Components Reusable with Props [Core Concept]
+    
+- Alternative Props Syntaxes
+    
+- More Prop Syntaxes
+    
+- queWorking with Props
+    
+- Dynamic Values & Props
+    
+- Best Practice: Storing Components in Files & Using a Good Project Structure
+    
+- Storing Component Style Files Next To Components
+    
+- Component Composition: The special "children" Prop [Core Concept]
+    
+- Component Composition
+    
+- Reacting to Events [Core Concept]
+    
+- Passing Functions as Values to Props
+    
+- Reacting to Events
+    
+- Passing Custom Arguments to Event Functions
+    
+- Configuring Event Handlers
+    
+- Best Practices & Event Handling
+    
+- How NOT to Update the UI - A Look Behind The Scenes of React [Core Concept]
+    
+- Managing State & Using Hooks [Core Concept]
+    
+- Working with State
+    
+- Deriving & Outputting Data Based on State
+    
+- State & Computed Values
+    
+- Rendering Content Conditionally
+    
+- Conditional Content
+    
+- CSS Styling & Dynamic Styling
+    
+- Dynamic Styling
+    
+- Outputting List Data Dynamically
+    
+- Dynamic List Content
+    
+- Conditional Content & Dynamic Lists
+    
+- Module Summary
