@@ -1,12 +1,25 @@
-# React + Vite
+# 🌞 Travel Packing List 🌴
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive packing list app built with **React** + **Vite**. Plan your trip, pack your bags, and check off items as you go!
 
-Currently, two official plugins are available:
+![App Screenshot](./public/Screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
+[👉 View the live app here](https://codestellatixn.github.io/react-travel-checklist/)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Add new items with quantity
+- 🗑️ Delete items from the list
+- 📦 Mark items as packed/unpacked
+- 🔤 Sort by input, description, or packed status
+- 🔁 Clear the entire list
+
+## 🚀 Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- CSS (Custom styles)
+
+## 🙌 Acknowledgments
+Built alongside Jonas Schmedtmann's Udemy course on React.
